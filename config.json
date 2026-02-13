@@ -1,0 +1,37 @@
+{
+  "search_terms": [
+    "entry level Data Analyst jobs Canada",
+    "junior Data Analyst Halifax Nova Scotia",
+    "Data Analyst 1-2 years experience Toronto Ontario",
+    "Data Analyst remote Canada",
+    "junior Data Scientist Atlantic Canada"
+  ],
+  "location_priority": [
+    "Halifax, NS",
+    "Dartmouth, NS",
+    "Toronto, ON",
+    "Remote, Canada",
+    "Ottawa, ON"
+  ],
+  "match_threshold": 80,
+  "max_jobs": 50,
+  "output_dir": "applications",
+  "templates_dir": "templates",
+  "notion_database_id": "",
+  "notification_settings": {
+    "telegram_enabled": true,
+    "telegram_user_id": "741797492",
+    "email_alerts": false
+  },
+  "candidate_profile": {
+    "name": "Vrajesh Bhatt",
+    "title": "Data Analyst",
+    "location": "Halifax, Nova Scotia",
+    "email": "vrajesh.bhatt@outlook.com",
+    "linkedin": "linkedin.com/in/vrajeshbhatt",
+    "experience_level": "entry",
+    "target_roles": ["Data Analyst", "Junior Data Scientist", "Business Intelligence Analyst"],
+    "skills": ["Python", "SQL", "Power BI", "Excel", "Data Analysis", "Machine Learning"],
+    "preferred_locations": ["Halifax", "Toronto", "Remote"]
+  }
+}
