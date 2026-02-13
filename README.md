@@ -175,17 +175,15 @@ Notion database with fields:
 
 ---
 
-## 🎯 Sample Applications
+## 🎯 How It Works
 
-### 1. Province of Nova Scotia - Data Analyst (90% match)
-- Government role, program evaluation focus
-- Full application package generated
+1. **Search** - Pipeline searches for jobs matching your criteria
+2. **Score** - AI algorithm ranks matches (80%+ threshold)
+3. **Generate** - Creates tailored resume & cover letter for each job
+4. **Review** - You review and approve before submission
+5. **Track** - Applications synced to Notion database
 
-### 2. Altus Group - Analyst, Valuation & Advisory (85% match)
-- Real estate data analysis
-- Entry-level friendly
-
-See `applications/` folder for complete examples.
+Your personalized applications are saved to the `applications/` folder (automatically created, git-ignored for privacy).
 
 ---
 

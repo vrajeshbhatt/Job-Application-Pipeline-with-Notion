@@ -10,6 +10,10 @@
 token.json
 client_secrets.json
 
+# Generated applications - user data (not templates)
+/applications/
+/applications/*/
+
 # OpenClaw specific
 /tmp/
 /cache/
