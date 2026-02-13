@@ -1,0 +1,15 @@
+{
+  "company": "Notion Integration Test",
+  "role": "Automation Engineer",
+  "location": "Remote",
+  "posting_url": "https://notion.so",
+  "match_pct": 99,
+  "status": "Discovered",
+  "fit_points": [
+    "Built custom Notion integration with Python",
+    "Automated PDF generation workflow",
+    "Synced multi-platform data (Discord/Obsidian/Notion)"
+  ],
+  "job_id": "20260210_Notion_Integration_Test_Automation_Engineer",
+  "date_found": "2026-02-10"
+}

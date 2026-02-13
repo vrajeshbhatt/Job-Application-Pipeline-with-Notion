@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Cover Letter - Vrajesh Bhatt</title>
+<style>
+  @font-face { font-family: "Times New Roman"; src: local("Times New Roman"); }
+  body { font-family: "Times New Roman", serif; font-size: 11pt; line-height: 1.5; margin: 0.5in; }
+  .name { font-size: 14pt; font-weight: bold; margin-bottom: 4px; }
+  .contact { font-size: 10pt; color: #444; margin-bottom: 20px; }
+  .date { margin-bottom: 20px; }
+  .recipient { margin-bottom: 30px; }
+  .salutation { margin-bottom: 20px; }
+  .paragraph { margin-bottom: 16px; text-align: justify; }
+  .signature { margin-top: 40px; }
+</style>
+</head>
+<body>
+  <div class="name">Vrajesh Bhatt</div>
+  <div class="contact">
+    Toronto, Ontario, Canada<br>
+    vrajesh.bhatt@outlook.com | (647) 123-4567<br>
+    LinkedIn: linkedin.com/in/vrajeshbhatt | GitHub: github.com/vrajeshbhatt
+  </div>
+
+  <div class="date" id="date"></div>
+
+  <div class="recipient">
+    Hiring Manager<br>
+    <span id="company_name">CGI</span><br>
+    <span id="company_address">[Company Address]</span>
+  </div>
+
+  <div class="salutation">Dear Hiring Manager,</div>
+
+  <div class="paragraph">
+    I am writing to express my interest in the <strong id="job_title">Analytics Associate</strong> position at <strong id="company">CGI</strong>, which I discovered via Brave Search. With my background in Computer Engineering and specialized training in AI/Data Science, I am confident in my ability to contribute to your team.
+  </div>
+
+  <div class="paragraph">
+    My experience aligns closely with your requirements:
+    <ul id="fit_points"><li>Developed automated data collection pipelines using n8n, reducing manual reporting by 60%.</li>
+    <li>Created interactive Power BI dashboards for sales and inventory tracking used by management.</li>
+    <li>Built forecasting models with Python (pandas, scikit-learn) achieving 87% accuracy.</li></ul>
+  </div>
+
+  <div class="paragraph">
+    At Moah Appliances, I developed automated data collection pipelines using n8n, reducing manual reporting time by 60%. I also created interactive Power BI dashboards used by management for sales and inventory decisions. My projects include an Airline Performance Analysis Dashboard and a Retail Sales Forecasting Model with 87% accuracy.
+  </div>
+
+  <div class="paragraph">
+    I am particularly excited about <strong id="company_interest">CGI</strong>'s work in data analytics. My technical stack—Python, Power BI, RPA, and SQL—matches the skills you seek, and I am eager to apply my analytical mindset to solve real-world data challenges.
+  </div>
+
+  <div class="paragraph">
+    I have attached my resume and a tailored cover letter for your review. I welcome the opportunity to discuss how I can contribute to <strong id="company_repeat">CGI</strong> and look forward to hearing from you.
+  </div>
+
+  <div class="signature">
+    Sincerely,<br>
+    Vrajesh Bhatt
+  </div>
+
+  <script>
+    // Fill dynamic fields
+    document.getElementById('date').textContent = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+    // The server will replace the placeholders before conversion
+  </script>
+</body>
+</html>

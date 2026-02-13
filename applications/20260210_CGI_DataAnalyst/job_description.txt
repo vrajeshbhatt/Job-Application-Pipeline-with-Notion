@@ -1,0 +1,238 @@
+Agree & Join LinkedIn
+
+By clicking Continue to join or sign in, you agree to LinkedIn's User Agreement, Privacy Policy, and Cookie Policy.
+
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Data Analyst
+CGI  Halifax, Nova Scotia, Canada
+1 month ago  126 applicants
+
+See who CGI has hired for this role
+
+Apply 
+Save
+Position Description
+
+At CGI, we are seeking an experienced and driven Data Analyst with strong data engineering and data platform capabilities. In this hybrid role, you will bridge the gap between business needs and technical solutions, focusing on data-centric initiatives in the insurance domain. The ideal candidate will have hands-on experience in SQL, ETL processes, and modern Azure-based data platforms (including Databricks and Medallion architecture), along with strong skills in business requirement gathering, stakeholder engagement, and supporting the full project lifecycle. This is a permanent, full-time role based in Atlantic Canada on a hybrid basis (2–3 days in office).
+
+Your future duties and responsibilities
+
+Collaborate with system owners, business users, and data engineering teams to define and document data requirements, operational goals, and analytics needs
+Lead requirements-gathering sessions for data-centric projects to improve business processes and information flow
+Analyze existing systems and data processes to identify areas for enhancement and optimization
+Translate business needs into functional and technical requirements for developers, data engineers, and other technical stakeholders
+Support data modeling, data quality, and data governance efforts by providing clear and structured documentation
+Create process models, data flow diagrams, use cases, and user stories to communicate solutions
+Validate business requirements, support User Acceptance Testing (UAT), and coordinate with QA teams to ensure solution quality
+Participate in the design and delivery of ETL workflows, data mappings, and integration logic
+Work with Azure Databricks to design and optimize data pipelines following Medallion architecture principles (Bronze, Silver, Gold layers)
+Ensure alignment of system solutions with enterprise data architecture and compliance standards
+Work across both in-person and virtual teams in a hybrid work environment
+
+
+Required Qualifications To Be Successful In This Role
+
+4–6 years as a Data Analyst in Insurance Domain
+
+Technical Skills & Tools (Must have) :
+
+Azure Data Fabric, Azure Data Factory, Dataflows,
+Medallion Architecture.
+Databricks and Synapse
+Python and related libraries (e.g., Pandas, PySpark) for ETL and data processing in Databricks
+Data Mapping, Lineage, and Metadata management
+Power BI / Tableau for reporting and visualization
+Strong SQL, ETL/ELT, and cloud data architecture expertise
+Experience with semantic models, dataflows, and reusable datasets
+Familiarity with Agile methodologies
+
+CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $60,000.00–$120,000.00. This role is an existing vacancy.
+
+- OA1
+
+Together, as owners, let’s turn meaningful insights into action.
+
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
+
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+
+At CGI, we value the strength that diversity brings and are committed to fostering a workplace where everyone belongs. We collaborate with our clients to build more inclusive communities and empower all CGI partners to thrive. As an equal-opportunity employer, being able to perform your best during the recruitment process is important to us. If you require an accommodation, please inform your recruiter.
+
+To learn more about accessibility at CGI, contact us via email. Please note that this email is strictly for accessibility requests and cannot be used for application status inquiries.
+
+Come join our team—one of the largest IT and business consulting services firms in the world.
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+IT Services and IT Consulting
+
+Referrals increase your chances of interviewing at CGI by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Associate / Senior Data Analyst, Business Intelligence & Dating Reporting
+Associate / Senior Data Analyst, Business Intelligence & Dating Reporting
+RBC
+Bedford, Nova Scotia, Canada
+15 hours ago
+Data Quality Analyst
+Data Quality Analyst
+Collabera
+Halifax, Nova Scotia, Canada
+CA$45 - CA$49
+6 days ago
+Senior Analyst, Compliance - Project and Data
+Senior Analyst, Compliance - Project and Data
+KPMG Canada
+Halifax, Nova Scotia, Canada
+3 days ago
+Business Intelligence Data Analyst (Program Admin Officer 3)
+Business Intelligence Data Analyst (Program Admin Officer 3)
+Government of Nova Scotia
+Halifax, Nova Scotia, Canada
+1 day ago
+Data Engineer
+Data Engineer
+Altitude Technology Solutions Inc
+Halifax, Nova Scotia, Canada
+2 hours ago
+Research Analyst
+Research Analyst
+Canadian Cancer Society
+Halifax, Nova Scotia, Canada
+CA$55,000 - CA$65,000
+5 days ago
+Show more jobs like this 
+People also viewed
+Risk Controls Analyst - Backfill
+Risk Controls Analyst - Backfill
+
+Apex Systems
+
+Bedford, Nova Scotia, Canada
+$25 - $40
+3 days ago
+Director, Gartner Analyst, Data Quality (Remote Canada)
+Director, Gartner Analyst, Data Quality (Remote Canada)
+
+Gartner
+
+Nova Scotia, Canada
+6 days ago
+Business Analyst, eHealth and Clinical Information Systems
+Business Analyst, eHealth and Clinical Information Systems
+
+CGI
+
+Halifax, Nova Scotia, Canada
+5 days ago
+Senior Business Systems Analyst - GFT Halifax
+Senior Business Systems Analyst - GFT Halifax
+
+RBC
+
+Halifax, Nova Scotia, Canada
+1 week ago
+Senior Data Scientist - Halifax
+Senior Data Scientist - Halifax
+
+RBC
+
+Halifax, Nova Scotia, Canada
+1 week ago
+systems testing technician
+systems testing technician
+
+Agilehive Inc
+
+Dartmouth, Nova Scotia, Canada
+5 days ago
+Lead Data Engineer
+Lead Data Engineer
+
+Launch Potato
+
+Greater Halifax Metropolitan Area
+2 days ago
+Senior SOC Analyst
+Senior SOC Analyst
+
+Humankind Global Recruitment
+
+Halifax, Nova Scotia, Canada
+3 weeks ago
+Punjabi Online Data Analyst (Remote Part-time)
+Punjabi Online Data Analyst (Remote Part-time)
+
+TELUS Digital AI Data Solutions
+
+Nova Scotia, Canada
+3 weeks ago
+Freelance Online Data Analyst - French Speakers
+Freelance Online Data Analyst - French Speakers
+
+TELUS Digital AI Data Solutions
+
+Halifax, Nova Scotia, Canada
+4 hours ago
+Similar Searches
+Data Research Analyst jobs
+2,618 open jobs
+Purchasing Analyst jobs
+3,190 open jobs
+Logistician jobs
+2,996 open jobs
+Senior Data Analyst jobs
+2,321 open jobs
+Data Management Analyst jobs
+4,249 open jobs
+Data Scientist jobs
+15,996 open jobs
+Junior Web Developer jobs
+699 open jobs
+Data Analyst jobs
+21,062 open jobs
+Junior Scientist jobs
+477 open jobs
+Supply Chain Analyst jobs
+1,937 open jobs
+Business Analyst jobs
+6,346 open jobs
+Business Data Analyst jobs
+3,762 open jobs
+Show more 
+Explore collaborative articles
+
+We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.
+
+Explore More
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language

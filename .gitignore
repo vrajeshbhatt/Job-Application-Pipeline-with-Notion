@@ -1,0 +1,33 @@
+# Credentials - Never commit
+/credentials/
+/credentials/*.json
+/credentials/*.key
+/credentials/*.pem
+/credentials/*secret*
+/credentials/*.md
+.env
+.env.local
+token.json
+client_secrets.json
+
+# OpenClaw specific
+/tmp/
+/cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.log
+*.exe
+miniconda.exe

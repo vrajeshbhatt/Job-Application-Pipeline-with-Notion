@@ -1,0 +1,74 @@
+[
+  {
+    "company": "Altus Group",
+    "role": "Analyst - Valuation and Advisory",
+    "location": "Halifax, Nova Scotia",
+    "type": "Entry-level / Recent Graduate",
+    "url": "https://ca.indeed.com/q-data-analytics-l-nova-scotia-jobs.html",
+    "notes": "Specifically seeking recent graduates. Real estate/financial data focus.",
+    "priority": "HIGH - Atlantic target, entry-level"
+  },
+  {
+    "company": "Province of Nova Scotia",
+    "role": "Data Analyst",
+    "location": "Halifax, Nova Scotia",
+    "type": "Government / Public Sector",
+    "url": "https://ca.indeed.com/Data-Analyst-jobs-in-Nova-Scotia",
+    "notes": "Multiple openings. Program evaluation and outcomes research focus.",
+    "priority": "HIGH - Government stability, Atlantic target"
+  },
+  {
+    "company": "CGI",
+    "role": "Data Steward / Data Engineering Specialist",
+    "location": "Halifax, Nova Scotia",
+    "type": "Healthcare Data",
+    "url": "https://ca.indeed.com/q-data-analyst-l-nova-scotia-jobs.html",
+    "notes": "Healthcare data governance. 5+ years mentioned but entry-level may be considered.",
+    "priority": "MEDIUM - Healthcare sector, may require experience"
+  },
+  {
+    "company": "Upfeat Media",
+    "role": "Data Collector / Research Analyst",
+    "location": "Halifax, Nova Scotia",
+    "type": "Part-time / Flexible",
+    "url": "https://ca.indeed.com/q-data-science-halifax-l-halifax,-ns-jobs.html",
+    "notes": "API work, dashboards, OSINT-style research. Part-time option.",
+    "priority": "MEDIUM - Flexible, good for building experience"
+  },
+  {
+    "company": "Various - Indeed Aggregate",
+    "role": "Entry-Level Data Analyst",
+    "location": "Halifax, NS (34 jobs)",
+    "type": "Multiple opportunities",
+    "url": "https://ca.indeed.com/q-entry-level-data-analyst-l-halifax,-ns-jobs.html",
+    "notes": "34 current openings. Need to filter for 1-2 year experience requirements.",
+    "priority": "HIGH - Multiple options to choose from"
+  },
+  {
+    "company": "Various - Indeed Aggregate",
+    "role": "Entry-Level Data Analyst", 
+    "location": "Toronto, ON (13+ jobs)",
+    "type": "Multiple opportunities",
+    "url": "https://ca.indeed.com/q-data-analyst-entry-level-jobs-toronto-on",
+    "notes": "13+ entry-level roles. Larger market but higher competition.",
+    "priority": "MEDIUM - Ontario secondary preference"
+  },
+  {
+    "company": "Various - LinkedIn Aggregate",
+    "role": "Junior Data Analyst",
+    "location": "Canada-wide (10,000+)",
+    "type": "Multiple opportunities",
+    "url": "https://ca.linkedin.com/jobs/junior-data-analyst-jobs",
+    "notes": "10,000+ junior roles nationally. Need to filter by location and experience.",
+    "priority": "LOW - Too broad, need specific filtering"
+  },
+  {
+    "company": "Job Bank Canada",
+    "role": "Data Analyst - Informatics",
+    "location": "Nova Scotia",
+    "type": "Government registered",
+    "url": "https://www.jobbank.gc.ca/marketreport/jobs/17882/NS",
+    "notes": "2 registered positions. Official government job board.",
+    "priority": "MEDIUM - Government verified postings"
+  }
+]
